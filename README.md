@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @disekai
+- 👋 Hi, I’m Nick, aka @sudosnugg
 - 👀 I’m interested in computer science and game development
-- 🌱 I’m currently learning FPS mechanics in unity
-- 💞️ I’m looking to collaborate on nothing, cuz i'm already super busy creating my OWN indie game!
-- 📫 How to reach me: go to my discord https://discord.com/invite/EbBasyd
+- 🌱 I’m currently learning FPS mechanics in unity and pygame
+- 💞️ I’m not looking to collaborate on nothing, because I'm busy improving my coding abilities!
+- 📫 How to reach me: add me on discord  or email me squirrelnuts987@gmail.com (if it is very urgent _do not abuse!!_ call me at +34 690 04 00 72
 
 <!---
 disekai/disekai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
