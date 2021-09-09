@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science and game development
 - 🌱 I’m currently learning FPS mechanics in unity and pygame
 - 💞️ I’m not looking to collaborate on nothing, because I'm busy improving my coding abilities!
-- 📫 How to reach me: add me on discord  or email me squirrelnuts987@gmail.com (if it is very urgent _do not abuse!!_ call me at +34 690 04 00 72
+- 📫 How to reach me: add me on discord sudosnugg#6846 or email me squirrelnuts987@gmail.com (if it is very urgent _do not abuse!!_ call me at +34 690 04 00 72 I live in UTC+1, so please do not call me when i'm sleeping)
 
 <!---
 disekai/disekai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
