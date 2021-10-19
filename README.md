@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nick, aka @sudosnugg
 - 👀 I’m interested in computer science and game development
-- 🌱 I’m currently learning FPS mechanics in unity and pygame
-- 💞️ I’m not looking to collaborate on nothing, because I'm busy improving my coding abilities!
+- 🌱 I’m currently learning c# game development, git and pygame
+- 💞️ I’m not looking to collaborate on anything, because I'm busy working on a project with a friend
 - 📫 How to reach me: add me on discord sudosnugg#6846 or email me squirrelnuts987@gmail.com (if it is very urgent _do not abuse!!_ call me at +34 690 04 00 72 I live in UTC+1, so please do not call me when i'm sleeping)
 
 ![](https://github.com/sudosnugg/github-profile-stats/blob/master/generated/overview.svg)
