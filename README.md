@@ -4,8 +4,8 @@
 - 💞️ I’m not looking to collaborate on nothing, because I'm busy improving my coding abilities!
 - 📫 How to reach me: add me on discord sudosnugg#6846 or email me squirrelnuts987@gmail.com (if it is very urgent _do not abuse!!_ call me at +34 690 04 00 72 I live in UTC+1, so please do not call me when i'm sleeping)
 
-![](https://github.com/username/github-profile-stats/blob/master/generated/overview.svg)
-![](https://github.com/username/github-profile-stats/blob/master/generated/languages.svg)
+![](https://github.com/sudosnugg/github-profile-stats/blob/master/generated/overview.svg)
+![](https://github.com/sudosnugg/github-profile-stats/blob/master/generated/languages.svg)
 
 <!---
 disekai/disekai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
