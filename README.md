@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nick, aka @sudosnugg
+- 👋 Hi, I’m Nick, aka @wariomale
 - 👀 I’m interested in computer science and game development
 - 🌱 I’m currently learning java game development (engineless), C++, and about operating systems
 - 💞️ I’m not looking to collaborate on anything, because I'm busy working on a project with a friend
