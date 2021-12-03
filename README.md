@@ -4,16 +4,8 @@
 - 💞️ I’m not looking to collaborate on anything, because I'm busy working on a project with a friend
 - 📫 How to reach me: add me on discord sudosnugg#6846 or email me squirrelnuts987@gmail.com (if it is very urgent _do not abuse!!_ call me at +34 690 04 00 72 I live in UTC+1, so please do not call me when i'm sleeping)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wariomale&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wariomale&repo=convoychat" />
-</a>
-<a href ="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src"https://github-readme-stats.vercel.app/api/wakatime?username=wariomale"
-</a>
-
+![](https://github.com/sudosnugg/github-profile-stats/blob/master/generated/overview.svg)
+![](https://github.com/sudosnugg/github-profile-stats/blob/master/generated/languages.svg)
 
 <!---
 disekai/disekai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
