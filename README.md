@@ -4,7 +4,7 @@
 - 💞️ I’m not looking to collaborate on anything, because I'm busy working on a project with a friend
 - 📫 How to reach me: add me on discord sudosnugg#6846 or email me squirrelnuts987@gmail.com (if it is very urgent _do not abuse!!_ call me at +34 690 04 00 72 I live in UTC+1, so please do not call me when i'm sleeping)
 <a>
-  <img align="center" src=(https://github-readme-stats.vercel.app/api?username=wariomale&count_private=true&show_icons=true&theme=dracula)
+  <img align="center" src=(https://github-readme-stats.vercel.app/api?username=wariomale&count_private=true&show_icons=true&theme=dracula) />
 </a>
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wariomale&repo=convoychat&count_private=true&show_icons=true&theme=dracula" />
