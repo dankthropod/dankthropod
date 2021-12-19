@@ -7,6 +7,10 @@
 ![](https://github.com/sudosnugg/github-profile-stats/blob/master/generated/overview.svg)
 ![](https://github.com/sudosnugg/github-profile-stats/blob/master/generated/languages.svg)
 <!--START_SECTION:waka-->
+```text
+sh       17 mins         █████████████████████▓░░░   86.29 % 
+Python   2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+```
 <!--END_SECTION:waka-->
 
 <!---
