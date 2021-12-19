@@ -1,6 +1,3 @@
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 - 👋 Hi, I’m Nick, aka @wariomale
 - 👀 I’m interested in computer science and game development
 - 🌱 I’m currently learning java game development (engineless), C++, and learning about operating systems (the linux bible is a great book on unix-likes!)
@@ -9,6 +6,8 @@
 
 ![](https://github.com/sudosnugg/github-profile-stats/blob/master/generated/overview.svg)
 ![](https://github.com/sudosnugg/github-profile-stats/blob/master/generated/languages.svg)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!---
 disekai/disekai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
