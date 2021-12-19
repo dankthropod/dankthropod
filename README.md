@@ -1,3 +1,6 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 - 👋 Hi, I’m Nick, aka @wariomale
 - 👀 I’m interested in computer science and game development
 - 🌱 I’m currently learning java game development (engineless), C++, and learning about operating systems (the linux bible is a great book on unix-likes!)
