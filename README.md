@@ -8,10 +8,8 @@
 ![](https://github.com/sudosnugg/github-profile-stats/blob/master/generated/languages.svg)
 <!--START_SECTION:waka-->
 ```text
-Python     2 hrs 54 mins   ████████████████░░░░░░░░░   63.50 % 
-sh         1 hr 22 mins    ███████▓░░░░░░░░░░░░░░░░░   30.16 % 
-C          14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-Java       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Bash     1 hr            █████████████████▓░░░░░░░   70.38 % 
+Python   25 mins         ███████▒░░░░░░░░░░░░░░░░░   29.35 % 
 ```
 <!--END_SECTION:waka-->
 
