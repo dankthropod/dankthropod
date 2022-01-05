@@ -8,8 +8,9 @@
 ![](https://github.com/sudosnugg/github-profile-stats/blob/master/generated/languages.svg)
 <!--START_SECTION:waka-->
 ```text
-Bash     1 hr            █████████████████▓░░░░░░░   70.38 % 
-Python   25 mins         ███████▒░░░░░░░░░░░░░░░░░   29.35 % 
+Lua      1 hr 1 min      ██████████▒░░░░░░░░░░░░░░   41.61 % 
+Bash     1 hr            ██████████▒░░░░░░░░░░░░░░   41.09 % 
+Python   25 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.13 % 
 ```
 <!--END_SECTION:waka-->
 
