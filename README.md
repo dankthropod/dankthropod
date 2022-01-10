@@ -6,6 +6,7 @@
 
 ![](https://github.com/sudosnugg/github-profile-stats/blob/master/generated/overview.svg)
 ![](https://github.com/sudosnugg/github-profile-stats/blob/master/generated/languages.svg)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wariomale)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 ```text
 Lua      1 hr 1 min      ██████████▒░░░░░░░░░░░░░░   41.61 % 
@@ -13,8 +14,3 @@ Bash     1 hr            ██████████▒░░░░░░░�
 Python   25 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.13 % 
 ```
 <!--END_SECTION:waka-->
-
-<!---
-disekai/disekai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
