@@ -6,5 +6,5 @@
 
 ![](https://github.com/sudosnugg/github-profile-stats/blob/master/generated/overview.svg)
 ![](https://github.com/sudosnugg/github-profile-stats/blob/master/generated/languages.svg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wariomale&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wariomale)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wariomale)](https://github.com/anuraghazra/github-readme-stats)
