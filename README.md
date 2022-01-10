@@ -6,11 +6,5 @@
 
 ![](https://github.com/sudosnugg/github-profile-stats/blob/master/generated/overview.svg)
 ![](https://github.com/sudosnugg/github-profile-stats/blob/master/generated/languages.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wariomale&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wariomale)](https://github.com/anuraghazra/github-readme-stats)
-<!--START_SECTION:waka-->
-```text
-Lua      1 hr 1 min      ██████████▒░░░░░░░░░░░░░░   41.61 % 
-Bash     1 hr            ██████████▒░░░░░░░░░░░░░░   41.09 % 
-Python   25 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.13 % 
-```
-<!--END_SECTION:waka-->
