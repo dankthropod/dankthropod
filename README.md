@@ -6,5 +6,6 @@
 
 ![](https://github.com/sudosnugg/github-profile-stats/blob/master/generated/overview.svg)
 ![](https://github.com/sudosnugg/github-profile-stats/blob/master/generated/languages.svg)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wariomale)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wariomale)](https://github.com/anuraghazra/github-readme-stats)
 
