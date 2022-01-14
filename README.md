@@ -6,7 +6,6 @@
 <!---
 ![](https://github.com/wariomale/github-profile-stats/blob/master/generated/overview.svg)
 ![](https://github.com/wariomale/github-profile-stats/blob/master/generated/languages.svg)--->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wariomale)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wariomale)](https://github.com/anuraghazra/github-readme-stats)[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wariomale&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wariomale&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wariomale&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
