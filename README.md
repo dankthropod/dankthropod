@@ -1,3 +1,5 @@
+# About me
+
 - 👋 Hi, I’m Nick, aka @wariomale
 - 👀 I’m interested in computer science and game development
 - 🌱 I’m currently learning lua game development (love2D), rust, and about operating systems (the linux bible is a great book on unix-likes!)
