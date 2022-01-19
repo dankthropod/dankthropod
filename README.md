@@ -10,9 +10,9 @@
 ![](https://github.com/wariomale/github-profile-stats/blob/master/generated/languages.svg)--->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wariomale)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wariomale&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wariomale&layout=compact?hide=makefile)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wariomale&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wariomale&layout=compact?hide=makefile)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wariomale&repo=Top-Down-template-Love2D" />
