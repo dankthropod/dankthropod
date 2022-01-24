@@ -1,4 +1,4 @@
-<!---# About me
+# About me
 
 - 👋 Hi, I’m Nick, aka @wariomale
 - 👀 I’m interested in computer science and game development
@@ -8,7 +8,7 @@
 <!---
 ![](https://github.com/wariomale/github-profile-stats/blob/master/generated/overview.svg)
 ![](https://github.com/wariomale/github-profile-stats/blob/master/generated/languages.svg)--->
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wariomale)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wariomale)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wariomale&hide=text&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -20,5 +20,3 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wariomale&repo=decentralized-client-server-messaging" />
 </a>
-
---->
