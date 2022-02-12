@@ -7,14 +7,14 @@
 - 📫 How to reach me: do not add me on discord wariogentleman#6846 i change my username every day, email me squirrelnuts987@gmail.com (if it is very urgent _do not abuse!!_ call me at +34 690 04 00 72 I live in UTC+1, so please do not call me when i'm sleeping) 
 <!---
 ![](https://github.com/wariomale/github-profile-stats/blob/master/generated/overview.svg)
-![](https://github.com/wariomale/github-profile-stats/blob/master/generated/languages.svg)--->
+![](https://github.com/wariomale/github-profile-stats/blob/master/generated/languages.svg)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wariomale&hide_border=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wariomale&theme=nord&hide=text&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wariomale&hide_border=true&theme=nord&hide=text&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wariomale&theme=nord&hide=makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wariomale&hide_border=true&theme=nord&hide=makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wariomale&repo=Top-Down-template-Love2D" />
@@ -24,3 +24,41 @@
 </a>
 --->
  
+<br />
+
+### Languages and Tools:
+
+[<img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E****" />](https://www.javascript.com/)
+[<img align="left" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />](https://www.php.net/)
+[<img align="left" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />](https://www.python.org/)
+[<img align="left" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />](https://git-scm.com/)
+[<img align="left" alt="Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />](https://www.linux.org/)
+
+&nbsp;
+&nbsp;
+<br />
+
+## Github Stats
+
+<details>
+  <summary>My Profile Stats</summary>
+  <br/>
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wariomale&hide_border=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
+</details>
+
+<details> 
+  <summary>My Most Used Languages</summary>
+  <br/>
+     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wariomale&hide_border=true&theme=nord&hide=makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
+</details>
+
+<details>
+  <summary>Wakatime stats</summary>
+  <br/>
+     [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wariomale&hide_border=true&theme=nord&hide=text&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
+</details>
+
+<p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
