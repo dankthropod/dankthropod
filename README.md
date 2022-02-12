@@ -16,7 +16,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wariomale&repo=decentralized-client-server-messaging" />
 </a>
 --->
- 
 <br />
 
 ### Languages and Tools:
@@ -30,9 +29,7 @@
 &nbsp;
 &nbsp;
 <br />
-
-
-
+    
 ### Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wariomale&hide_border=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats) 
