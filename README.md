@@ -42,8 +42,11 @@
 
 <details>
   <summary>My Profile Stats</summary>
-  
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wariomale&hide_border=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wariomale&hide_border=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+    </a>
+  <br/>
   
 </details>
 
