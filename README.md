@@ -22,7 +22,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Rust" src="https://img.shields.io/badge/-rust-f04a04?logo=rust&logoColor=black&style=for-the-badge" />](https://www.rust-lang.org/)
-[<img align="left" alt="Lua" src="https://img.shields.io/badge/-lua-white?logo=lua&logoColor=040484&style=for-the-badge/>](https://www.php.net/)
+[<img align="left" alt="Lua" src="https://img.shields.io/badge/-lua-white?logo=lua&logoColor=040484&style=for-the-badge"/>](https://www.lua.org/)
 [<img align="left" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />](https://www.python.org/)
 [<img align="left" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />](https://git-scm.com/)
 [<img align="left" alt="Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />](https://www.linux.org/)
