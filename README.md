@@ -9,13 +9,6 @@
 ![](https://github.com/wariomale/github-profile-stats/blob/master/generated/overview.svg)
 ![](https://github.com/wariomale/github-profile-stats/blob/master/generated/languages.svg)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wariomale&hide_border=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats) 
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wariomale&hide_border=true&theme=nord&hide=text&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wariomale&hide_border=true&theme=nord&hide=makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <!---<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wariomale&repo=Top-Down-template-Love2D" />
 </a>
@@ -28,8 +21,8 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E****" />](https://www.javascript.com/)
-[<img align="left" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />](https://www.php.net/)
+[<img align="left" alt="Rust" src="https://img.shields.io/badge/-rust-f04a04?logo=rust&logoColor=black&style=for-the-badge" />](https://www.rust-lang.org/)
+[<img align="left" alt="Lua" src="https://img.shields.io/badge/-lua-white?logo=lua&logoColor=040484&style=for-the-badge/>](https://www.php.net/)
 [<img align="left" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />](https://www.python.org/)
 [<img align="left" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />](https://git-scm.com/)
 [<img align="left" alt="Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />](https://www.linux.org/)
@@ -40,28 +33,9 @@
 
 ## Github Stats
 
-<details>
-  <summary>My Profile Stats</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wariomale&hide_border=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-    </a>
-  <br/>
-  
-</details>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wariomale&hide_border=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats) 
 
-<details> 
-  <summary>My Most Used Languages</summary>
-  <br/>
-     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wariomale&hide_border=true&theme=nord&hide=makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-</details>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wariomale&hide_border=true&theme=nord&hide=text&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<details>
-  <summary>Wakatime stats</summary>
-  <br/>
-     [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wariomale&hide_border=true&theme=nord&hide=text&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-</details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wariomale&hide_border=true&theme=nord&hide=makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
