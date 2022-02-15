@@ -1,6 +1,6 @@
 # About me
 
-- 👋 Hi, I’m Nick, aka @wariomale
+- 👋 Hi, I’m Nick, aka @dankthropod
 - 👀 I’m interested in computer science and game development
 - 🌱 I’m currently learning game development (love2D), django, rust, traffic systems and about operating systems (the linux bible is a great book on unix-likes!)
 - 💞️ I’m not looking to collaborate on anything right now...
