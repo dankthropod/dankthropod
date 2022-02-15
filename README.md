@@ -26,3 +26,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wariomale&hide_border=true&theme=nord&hide=makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
