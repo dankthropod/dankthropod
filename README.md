@@ -1,5 +1,5 @@
 # About me
- 
+
 - 👋 Hi, I’m Nick, aka @dankthropod
 - 👀 I’m interested in computer science and game development
 - 🌱 I’m currently learning game development (love2D), django, rust, traffic systems and about operating systems (the linux bible is a great book on unix-likes!)
@@ -24,6 +24,6 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dankthropod&hide_border=true&theme=nord&hide=text&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dankthropod&hide_border=true&theme=nord&hide=makefile,c&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dankthropod&hide_border=true&theme=nord&hide=makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
